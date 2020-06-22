@@ -72,7 +72,7 @@ body
     .navbar-text
     {
         display: inline-block;
-        font-size: 13px;
+        font-size: 11px;
         margin: 0;
         text-align: center;
         font-weight: 500;
@@ -315,7 +315,7 @@ body
     {
         width:80%;
         text-align: left;
-        font-size: 20px;
+        font-size: 15px;
         color:black;
         padding: 2vw;
         padding-left: 2vw;
@@ -334,14 +334,14 @@ body
     .card-title
     {
         color: rgb(175, 2, 2);
-        font-size: 15px;
+        font-size: 13px;
         font-weight: bolder;
     }
     .card-description
     {
         margin-bottom: 0;
 	font-weight: bolder;
-	font-size:11px;
+	font-size:10px;
     }
     .card-readmore-link
     {
@@ -349,6 +349,7 @@ body
         margin-top: 0.5vw;
         margin-bottom: 1vw;
         color: rgb(0, 140, 255);
+	font-size:10px;
     }
     .card-image
     {
@@ -359,7 +360,7 @@ body
     .view-reports-button
     {
         display: block;
-        width: 60%;
+        width: 80%;
         text-align: center;
         text-decoration: none;
         background-color:#333 ;
