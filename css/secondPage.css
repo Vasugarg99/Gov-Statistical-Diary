@@ -334,13 +334,14 @@ body
     .card-title
     {
         color: rgb(175, 2, 2);
-        font-size: 18px;
+        font-size: 15px;
         font-weight: bolder;
     }
     .card-description
     {
         margin-bottom: 0;
-		font-weight: bolder;
+	font-weight: bolder;
+	font-size:11px;
     }
     .card-readmore-link
     {
