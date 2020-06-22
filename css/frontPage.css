@@ -100,15 +100,17 @@ img
 .button-1
 {
     position: absolute;
-    right: 1vw;
+    right: 2vw;
     top: 1vw;
-    
+    font-size:1.5vw;   
 }
 .button-2
 {
     position: absolute;
     right: 12vw;
     top: 1vw;
+    font-size:1.5vw;
+  
 }
 .button-3
 {
