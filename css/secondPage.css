@@ -72,12 +72,12 @@ body
     .navbar-text
     {
         display: inline-block;
-        font-size: 11px;
+        font-size: 10px;
         margin: 0;
         text-align: center;
         font-weight: 500;
         color: white;
-        margin-left: 2vw;
+        margin-left: 1vw;
         position: absolute;
         top: 2vw;
     } 
@@ -364,12 +364,12 @@ body
         text-align: center;
         text-decoration: none;
         background-color:#333 ;
-        font-weight: bolder;
         color: white;
         padding: 1vw;
         margin-top: 1vw;
         float: right;
         border-radius: 30px;
+	font-size:10px;
     }
     .modal {
         display: none; /* Hidden by default */
